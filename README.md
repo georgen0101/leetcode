@@ -5,5 +5,5 @@ For each file paste the solution:
 - difficulty
 - tags
 - problem
-- solution with words
+- solution with words ans time-space complexity
 - code
